@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PewaHewa</string>
+    <string name="II">II</string>
+    <string name="I"><![CDATA[>>I]]></string>
+    <string name="NEXT"><![CDATA[>I]]></string>
+    <string name="prev"><![CDATA[I<]]></string>
+    <string name="fwd"><![CDATA[I<<]]></string>
+</resources>
