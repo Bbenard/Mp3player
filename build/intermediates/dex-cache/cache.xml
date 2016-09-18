@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_0699079b287da9ed79961dadc81b4632b583d0fd.jar" />
+    </item>
+    <item
+        jar="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="18b5697c65c4fe5b7381613b8b8ae9ac52e26fa7">
+        <dex dex="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/pre-dexed/debug/com.google.firebase-firebase-common-9.4.0_542f0a8b79bd3fecd95d998d1ae3b845c9f7baf3.jar" />
+    </item>
+    <item
+        jar="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/pre-dexed/debug/com.android.support-animated-vector-drawable-24.2.1_e9bf28fd03e097e7d8afb97dfab124889f570b39.jar" />
+    </item>
+    <item
+        jar="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8a36d229011e75f0caef408e1adf0d3fd4d94e02">
+        <dex dex="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-tasks-9.4.0_ea84da1ad68451abf1700619efd9c849a694fd2f.jar" />
+    </item>
+    <item
+        jar="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/pre-dexed/debug/com.android.support-support-vector-drawable-24.2.1_3fe29888d18abbb5fef3ac3eb2552d61154dc291.jar" />
+    </item>
+    <item
+        jar="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="618485fef3ebe12127f7622abbc9b5b39057b5c2">
+        <dex dex="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-basement-9.4.0_6120a94c2b47983c763d664174e8e792c4e49026.jar" />
+    </item>
+    <item
+        jar="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/pre-dexed/debug/com.android.support-support-fragment-24.2.1_f8ded0c0aff3654439cfa6f3290e0e434aea9db2.jar" />
+    </item>
+    <item
+        jar="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-ui-24.2.1_b00881adefe5d9e4cfad4621e0e0c9c796275078.jar" />
+    </item>
+    <item
+        jar="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_af29ccab5b1fd565fff282d253301a18bc74ec20.jar" />
+    </item>
+    <item
+        jar="/home/benard/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/pre-dexed/debug/support-annotations-24.2.1_5539fe7790b1aa228779f95f72c0e4a808d95335.jar" />
+    </item>
+    <item
+        jar="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_446b82ce35fadfb881f179b2db5efa1f3924d8cd.jar" />
+    </item>
+    <item
+        jar="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_a3a1982501d5d02d625b0c87df5136a27c1ae0b8.jar" />
+    </item>
+    <item
+        jar="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="c10df7344e31161852c20bb8143fc37319aa10ec">
+        <dex dex="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-appindexing-9.4.0_58c71e2c96dd6d5608fd49d4df932a94a7f71a9c.jar" />
+    </item>
+    <item
+        jar="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-24.2.1_021697b23ce7404a573681794dba1c407de7fbd4.jar" />
+    </item>
+    <item
+        jar="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/pre-dexed/debug/internal_impl-24.2.1_9bcde5d4eb9c7774e81b4ca68e68761252c23e36.jar" />
+    </item>
+    <item
+        jar="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.4.0/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="3dee4ce5844d39d843d503fb8fe04e51e5bfffac">
+        <dex dex="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/pre-dexed/debug/com.google.android.gms-play-services-base-9.4.0_e19fabd8c7f7272d696b65b6eef5e9c976d239f0.jar" />
+    </item>
+    <item
+        jar="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/pre-dexed/debug/com.android.support-support-media-compat-24.2.1_eeae48ef179bedd6b5f150b77123c00a69e20ad1.jar" />
+    </item>
+    <item
+        jar="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-24.2.1_06e79fffd103e60ac1fcd1ac5e8fe88fd2e355b1.jar" />
+    </item>
+    <item
+        jar="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/pre-dexed/debug/com.android.support-support-compat-24.2.1_64a313a87e1b536a7f99d6d3630c8617ccc29548.jar" />
+    </item>
+    <item
+        jar="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/home/benard/Desktop/friendlychat-master/PewaHewa/app/build/intermediates/pre-dexed/debug/com.android.support-support-core-utils-24.2.1_e890a6480202e9b39bf7c74b389fd9ed57fade95.jar" />
+    </item>
+
+</items>
